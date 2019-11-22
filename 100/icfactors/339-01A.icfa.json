@@ -1,9 +1,31 @@
 {
     "AX": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.015095250119891625,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4090",
+                "uuid": "80875533-51ee-4fbb-ad16-45b1142681ab"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4091",
+                "uuid": "785ef7d9-09bc-477b-92d2-0c2af5ec98d0"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4092",
+                "uuid": "f2fa6814-56c2-4c53-ac44-905d89a8f702"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4093",
+                "uuid": "6a28c8a2-e654-4e6f-8434-704e33ffe5de"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.005931533235718
     },
     "H1": {
         "error": 0.0,
@@ -24,9 +46,31 @@
         "value": 1.0
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.589e-08
+        "error": 5.264448680661045e-11,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4090",
+                "uuid": "80875533-51ee-4fbb-ad16-45b1142681ab"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4091",
+                "uuid": "785ef7d9-09bc-477b-92d2-0c2af5ec98d0"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4092",
+                "uuid": "f2fa6814-56c2-4c53-ac44-905d89a8f702"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4093",
+                "uuid": "6a28c8a2-e654-4e6f-8434-704e33ffe5de"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.60792105836869e-08
     }
 }
