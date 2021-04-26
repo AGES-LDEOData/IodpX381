@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.4021747109083052,
+        "error": 0.5687609306100039,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -19,9 +19,9 @@
         "value": 86.63800237713318
     },
     "Ar37": {
-        "error": 1.4612947522394963,
+        "error": 2.0665828572417273,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -38,9 +38,9 @@
         "value": 178.11607990001914
     },
     "Ar38": {
-        "error": 0.05784973660118276,
+        "error": 0.08181188208110389,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -57,9 +57,9 @@
         "value": 24.835461414169153
     },
     "Ar39": {
-        "error": 1.4331816022329456,
+        "error": 2.026824859221434,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -76,9 +76,9 @@
         "value": 51.885935790493775
     },
     "Ar40": {
-        "error": 133.38528298878828,
+        "error": 188.63527622371765,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
