@@ -4,19 +4,21 @@
         "fit": "bulk_edit",
         "references": "",
         "reviewed": true,
-        "value": 1.0
+        "value": 56908718.0
     },
     "H1": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "fit": "bulk_edit",
+        "references": "",
+        "reviewed": true,
+        "value": 56908718.0
     },
     "H2": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "fit": "bulk_edit",
+        "references": "",
+        "reviewed": true,
+        "value": 56908718.0
     },
     "L1": {
         "error": 0.0,
