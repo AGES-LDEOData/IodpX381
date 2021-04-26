@@ -24,7 +24,7 @@
         "value": 1.0
     },
     "L2": {
-        "error": 2.170241671074744e-11,
+        "error": 1.7734775137062348e-11,
         "fit": "Average",
         "references": [
             {
@@ -33,7 +33,7 @@
                 "uuid": "2aa560bb-4730-4f5b-b6e6-8741fb63c3b4"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-02-N-1315",
                 "uuid": "bc4895b2-a8c3-4d4b-826f-417c4561b1cc"
             },
@@ -59,6 +59,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.7622246369080455e-08
+        "value": 1.7622971389841685e-08
     }
 }
